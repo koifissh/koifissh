@@ -1,6 +1,6 @@
 
 <h1 align="left">Daniel Huynh -@koifissh</h1>
-<h5 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. I'm into the mobile development whether that be smartphones or wearable tech. 
+<h4 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. I'm into the mobile development whether that be smartphones or wearable tech. 
 
 
 <h3 align="left">Languages and Tools:</h3>
