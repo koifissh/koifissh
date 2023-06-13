@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi, I'm Daniel Huynh</h1>
-<h3 align="center">A student looking to get involved with amazing projects</h3>
+<h1 align="left">Hi, I'm Daniel Huynh</h1>
+<h3 align="left">A student looking to get involved with amazing projects</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
