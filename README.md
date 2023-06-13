@@ -1,6 +1,6 @@
 
-<h1 align="left">Hi, I'm Daniel Huynh</h1>
-<h3 align="left">A student looking to get involved with amazing projects</h3>
+<h1 align="left">Daniel Huynh -@koifissh</h1>
+<h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
