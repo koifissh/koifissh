@@ -1,4 +1,11 @@
 
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/koifissh/koifissh/assets/112574689/001686b0-a9b3-461e-b433-c747538414da" alt="Alt Text" width="100" height="100">
+  <p>Your text goes here.</p>
+</div>
+
+
+
 <h1 align="left">Daniel Huynh -@koifissh</h1>
 **'Software Developer'** 
 <h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there.</h3>
