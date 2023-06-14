@@ -1,5 +1,6 @@
 
 <h1 align="left">Daniel Huynh -@koifissh</h1>
+**`Software Developer`** 
 <h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there.</h3>
 
 
