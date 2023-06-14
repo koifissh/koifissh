@@ -3,6 +3,7 @@
 **'Software Developer'** 
 <h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there.</h3>
 
+<h3 align='center'>(https://github.com/koifissh/koifissh/assets/112574689/001686b0-a9b3-461e-b433-c747538414da)</h3>
 
 
 
