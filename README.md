@@ -1,9 +1,10 @@
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/koifissh/koifissh/assets/112574689/2450cc74-a859-4881-8526-17d6d8437efc" alt="Alt Text" width="100" height="100" style="float: left; margin-right: 10px;">
-  <p>Your text goes here.</p>
+  <img src="https://github.com/koifissh/koifissh/assets/112574689/2450cc74-a859-4881-8526-17d6d8437efc" alt="Alt Text" width="256" height="256" style="float: left; margin-right: 10px;">
+  <div>
+    <p>Your text goes here.</p>
+  </div>
 </div>
-
 
 <h1 align="left">Daniel Huynh -@koifissh</h1>
 **'Software Developer'** 
