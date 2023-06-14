@@ -5,7 +5,7 @@
 </div>
 
 <p float="left">
-  <img src="https://github.com/koifissh/koifissh/assets/112574689/2450cc74-a859-4881-8526-17d6d8437efc" width="100" />
+  <img src="https://github.com/koifissh/koifissh/assets/112574689/2450cc74-a859-4881-8526-17d6d8437efc"/>
   Daniel Huynh
 </p>
 
