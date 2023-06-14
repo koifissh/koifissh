@@ -1,9 +1,8 @@
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/koifissh/koifissh/assets/112574689/001686b0-a9b3-461e-b433-c747538414da" alt="Alt Text" width="100" height="100">
+  <img src="https://github.com/koifissh/koifissh/assets/112574689/2450cc74-a859-4881-8526-17d6d8437efc" alt="Alt Text" width="100" height="100" style="float: left; margin-right: 10px;">
   <p>Your text goes here.</p>
 </div>
-
 
 
 <h1 align="left">Daniel Huynh -@koifissh</h1>
