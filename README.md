@@ -1,25 +1,21 @@
 
+<h1 align="left">Daniel Huynh -@koifissh</h1> 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/koifissh/koifissh/assets/112574689/2450cc74-a859-4881-8526-17d6d8437efc" alt="Alt Text" width="100" height="100" style="float: left; margin-right: 10px;">
-  Your text goes here
+  <img src="https://github.com/koifissh/koifissh/assets/112574689/2450cc74-a859-4881-8526-17d6d8437efc" alt="Alt Text" width="512" height="512" style="float: left; margin-right: 10px;">
+  Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there.
 </div>
 
-<p float="left">
-  <img src="https://github.com/koifissh/koifissh/assets/112574689/2450cc74-a859-4881-8526-17d6d8437efc"/>
-  Daniel Huynh
-</p>
-
-
-<h1 align="left">Daniel Huynh -@koifissh</h1>
-**'Software Developer'** 
 <h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there.</h3>
 
-<img src="https://github.com/koifissh/koifissh/assets/112574689/001686b0-a9b3-461e-b433-c747538414da"/>
-<img src=!"https://github.com/koifissh/koifissh/assets/112574689/2450cc74-a859-4881-8526-17d6d8437efc"/>
+
 
 
 
 <!--
+
+<img src="https://github.com/koifissh/koifissh/assets/112574689/001686b0-a9b3-461e-b433-c747538414da"/>
+<img src=!"https://github.com/koifissh/koifissh/assets/112574689/2450cc74-a859-4881-8526-17d6d8437efc"/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
