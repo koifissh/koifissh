@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Daniel Huynh/>
+<h1 align="left">Daniel Huynh</h1>
 
 ###
 
