@@ -1,4 +1,4 @@
-<img align="left" height="175" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
+<img align="left" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
 
 ###
 
