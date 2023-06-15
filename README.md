@@ -58,7 +58,7 @@
 ###
 ###
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=koifissh&theme=github-compact&hide_border=true)](https://github.com/koifissh/github-readme-activity-graph)" height="150" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=koifissh&theme=github-compact&hide_border=true)](https://github.com/koifissh/github-readme-activity-graph)" height="250" />
 </div>
 ###
 <!--
