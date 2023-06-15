@@ -41,6 +41,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/koifissh/koifissh/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 
 ![lofi1](https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4)
