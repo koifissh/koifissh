@@ -2,6 +2,26 @@
 
 ###
 
+<img align="left" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
+
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<h4 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there :)</h4>
+
+###
+
+
+
+
+
+<h1 align="left">KoiFissh</h1>
+
+###
+
 <div align="center">
   <img height="150" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
 </div>
