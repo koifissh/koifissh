@@ -67,11 +67,9 @@
 
 ###
 
- [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal)](https://github.com/koifissh/CS303Assignment2-koifissh)/>
+ [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal)](https://github.com/koifissh/CS303Assignment2-koifissh)
 
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal)](https://github.com/koifissh/CS303Assignment2-koifissh)
-
- <img src="https://myreadme.vercel.app/api/embed/koifissh?panels=userstatistics&commitgraph" />
+ <img src="https://myreadme.vercel.app/api/embed/koifissh?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
 
 
 
