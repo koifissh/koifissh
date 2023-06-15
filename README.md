@@ -5,7 +5,7 @@
 ![output-onlinegiftools (1)](https://github.com/koifissh/koifissh/assets/112574689/218755f0-f1c3-4101-a09b-c3b3fe4ce678)
 ![lofi1 (1)](https://github.com/koifissh/koifissh/assets/112574689/827e40d2-dad2-414d-ba36-deb82b14b67e)
 -->
-[![onetab.group](https://svg.bookmark.style/api?url=https://onetab.group&mode=light)](https://onetab.group)
+<img src="https://svg.bookmark.style/api?url=https://onetab.group&mode=light)](https://onetab.group"/>
 
 <h1 align="left">Daniel Huynh</h1>
 
