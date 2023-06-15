@@ -1,4 +1,5 @@
-<img align="left" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
+<img align=“left” img src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4" alt="your_alternative_text" width=“150” height=“150” loop=infinite>
+
 
 ###
 
@@ -12,7 +13,7 @@
 
 <br clear="both">
 
-<h1 align="left">About Me</h1>
+<h2 align="left">About Me</h2>
 
 ###
 
@@ -20,7 +21,7 @@
 
 ###
 
-<h1 align="left">Skills</h1>
+<h2 align="left">Skills</h2>
 
 ###
 
@@ -46,7 +47,7 @@
 
 ###
 
-<h1 align="left">Stats</h1>
+<h2 align="left">Stats</h2>
 
 ###
 
