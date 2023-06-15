@@ -5,7 +5,6 @@
 ![output-onlinegiftools (1)](https://github.com/koifissh/koifissh/assets/112574689/218755f0-f1c3-4101-a09b-c3b3fe4ce678)
 ![lofi1 (1)](https://github.com/koifissh/koifissh/assets/112574689/827e40d2-dad2-414d-ba36-deb82b14b67e)
 -->
-<img src="https://svg.bookmark.style/api?url=https://onetab.group&mode=light)](https://onetab.group"/>
 
 <h1 align="left">Daniel Huynh</h1>
 
@@ -65,7 +64,6 @@
 
 <h2 align="center">Projects</h2>
 
-###  [![vue-command-palette](<https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal&align=center>)](https://github.com/koifissh/CS303Assignment2-koifissh)
 
 <div align="center">
   <a href="https://github.com/koifissh/CS303Assignment2-koifissh">
@@ -77,6 +75,9 @@
 
 
 <!--
+
+###  [![vue-command-palette](<https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal&align=center>)](https://github.com/koifissh/CS303Assignment2-koifissh)
+
 <img src="https://myreadme.vercel.app/api/embed/koifissh?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
 ![lofi2](https://github.com/koifissh/koifissh/assets/112574689/0ea83c14-bf6c-463c-807a-cf4331399888)
 
