@@ -1,39 +1,26 @@
-<h1 align="left">Daniel Huynh</h1>
-
-###
-
-<p align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there :)</p>
+<h1 align="left">KoiFissh</h1>
 
 ###
 
 <div align="center">
+  <img height="150" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
 </div>
 
 ###
 
-<img align="left" height="200" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
+<h2 align="center">About Me</h2>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=koifissh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
+<h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there :)</h3>
 
 ###
 
-
-
-
-
-
-
-
-
-![lofi1](https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4)
-![ crop](https://github.com/koifissh/koifissh/assets/112574689/1cb435ff-153f-41bf-b2ae-78ab42cc3eca)
 
 
 <!--
+
+![lofi1](https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4)
 <img align="left" height="200" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
 
 ###
