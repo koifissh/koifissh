@@ -1,14 +1,15 @@
 
 <h1 align="left">Daniel Huynh -@koifissh</h1> 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/koifissh/koifissh/assets/112574689/1cd272b8-ef05-4d38-be0f-8be909a77f16">
+  <img src="https://github.com/koifissh/koifissh/assets/112574689/1cb435ff-153f-41bf-b2ae-78ab42cc3eca">
   Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there.
 </div>
 
 <h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there.</h3>
 
 
-![Studio_Project_V1](https://github.com/koifissh/koifissh/assets/112574689/1cd272b8-ef05-4d38-be0f-8be909a77f16)
+![ crop](https://github.com/koifissh/koifissh/assets/112574689/1cb435ff-153f-41bf-b2ae-78ab42cc3eca)
+
 
 
 
