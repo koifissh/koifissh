@@ -1,4 +1,5 @@
-<img src="https://cdn.discordapp.com/attachments/837440107425562653/1118730547389288528/lofi1.gif" alt="your_alternative_text" width=“150” height=“150” loop=infinite>
+<img src="https://github.com/koifissh/koifissh/assets/112574689/827e40d2-dad2-414d-ba36-deb82b14b67e" alt="your_alternative_text" width=“150” height=“150” loop=infinite>
+![lofi1 (1)](https://github.com/koifissh/koifissh/assets/112574689/827e40d2-dad2-414d-ba36-deb82b14b67e)
 
 
 ###
