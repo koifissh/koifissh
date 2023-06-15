@@ -6,14 +6,19 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h1 align="left">About Me</h1>
 
 ###
 
-<h4 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there :)</h4>
+<h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there :)</h3>
 
 ###
 
+<br clear="both">
+
+<h1 align="left">Stats</h1>
+
+###
 
 
 
