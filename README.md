@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/unity/808080" height="40" alt="unity logo"  />
+  <img src="https://cdn.simpleicons.org/unity/C0C0C0" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visualstudio logo"  />
   <img width="12" />
