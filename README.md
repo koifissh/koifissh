@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Daniel Huynh</h1>
+<h1 align="left">Daniel Huynh</h1>
 
 ###
 
-<h3 align="left">C++ Dev</h1>
+<h1 align="left">C++ Dev</h1>
 
 ###
 
