@@ -13,7 +13,7 @@
 <h1 align="left">C++ Dev</h1>
 
 ###
-<h2 align="left">About Me</h2>
+<h2 align="center">About Me</h2>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="center">Skills</h2>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="center">Stats</h2>
 
 ###
 
