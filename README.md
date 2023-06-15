@@ -67,10 +67,11 @@
 
 ###
 
-<h2 align="center"> [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal)](https://github.com/koifissh/CS303Assignment2-koifissh)/>
+ [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal)](https://github.com/koifissh/CS303Assignment2-koifissh)/>
 
-  <h1 align="center">(https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal)](https://github.com/koifissh/CS303Assignment2-koifissh)</h1>
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal)](https://github.com/koifissh/CS303Assignment2-koifissh)
 
+ <img src="https://myreadme.vercel.app/api/embed/koifissh" />
 
 
 
