@@ -2,15 +2,15 @@
 
 ###
 
-<img align="left" height="200" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
+<img align="left" height="100" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
 
 ###
 
-<h1 align="left">About Me</h1>
+<h3 align="left">About Me</h3>
 
 ###
 
-<h2 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there :)</h2>
+<h5 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there :)</h5>
 
 ###
 
@@ -26,6 +26,8 @@
 </div>
 
 ###
+
+
 <!--
 
 ![lofi1](https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4)
