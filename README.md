@@ -1,4 +1,4 @@
-<img align="left" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
+<img align="left" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  loop=infinite/>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">KoiFissh</h2>
+<h2 align="left">C++ Dev</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech happening, I'll be there :)</h4>
+<h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech happening, I'll be there :)</h3>
 
 ###
 
@@ -66,7 +66,6 @@
 </div>
 
 ###
-
 <!--
 
 ![lofi1](https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4)
