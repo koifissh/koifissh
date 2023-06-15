@@ -67,10 +67,9 @@
 
 ###
 
-<p align="center">
-  <img align="center" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal"/>
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal)](https://github.com/koifissh/CS303Assignment2-koifissh)
-</p>
+<h2 align="center"> [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal)](https://github.com/koifissh/CS303Assignment2-koifissh)/>
+
+  <h1 align="center">(https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal)](https://github.com/koifissh/CS303Assignment2-koifissh)</h1>
 
 
 
