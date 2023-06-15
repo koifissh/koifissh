@@ -1,6 +1,6 @@
-![output-onlinegiftools (3)-min](https://github.com/koifissh/koifissh/assets/112574689/b62c2472-eb66-4740-84af-74e366abbe9d)
 
 
+<img align="center" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/b62c2472-eb66-4740-84af-74e366abbe9d"  />
 
 <img align="left" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/218755f0-f1c3-4101-a09b-c3b3fe4ce678"  />
 <!--
