@@ -60,7 +60,6 @@
 <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koifissh&theme=github-compact&hide_border=true)](https://github.com/koifissh/github-readme-activity-graph)" height="250" />
 </div>
-###
 <!--
 ![lofi2](https://github.com/koifissh/koifissh/assets/112574689/0ea83c14-bf6c-463c-807a-cf4331399888)
 
