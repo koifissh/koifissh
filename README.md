@@ -1,18 +1,18 @@
-<img align="left" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  loop=infinite/>
+<img align="left" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
 
 ###
 
-<h2 align="left">Daniel Huynh</h2>
+<h1 align="left">Daniel Huynh</h1>
 
 ###
 
-<h2 align="left">C++ Dev</h2>
+<h1 align="left">C++ Dev</h1>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">About Me</h2>
+<h1 align="left">About Me</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h1 align="left">Skills</h1>
 
 ###
 
@@ -46,23 +46,13 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h1 align="left">Stats</h1>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koifissh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koifissh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="125" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
 </div>
 
 ###
