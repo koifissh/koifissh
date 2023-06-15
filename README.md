@@ -1,4 +1,4 @@
-<img src="https://github.com/koifissh/koifissh/assets/112574689/827e40d2-dad2-414d-ba36-deb82b14b67e" alt="your_alternative_text" align="left" width=“150” height=“150” loop=infinite>
+<img src="https://github.com/koifissh/koifissh/assets/112574689/0ea83c14-bf6c-463c-807a-cf4331399888" alt="your_alternative_text" align="left" width=“150” height=“150” loop=infinite>
 
 ###
 
@@ -57,6 +57,8 @@
 
 ###
 <!--
+![lofi2](https://github.com/koifissh/koifissh/assets/112574689/0ea83c14-bf6c-463c-807a-cf4331399888)
+
 ![lofi1 (1)](https://github.com/koifissh/koifissh/assets/112574689/827e40d2-dad2-414d-ba36-deb82b14b67e)
 ![lofi1 (1)](https://github.com/koifissh/koifissh/assets/112574689/827e40d2-dad2-414d-ba36-deb82b14b67e)
 
