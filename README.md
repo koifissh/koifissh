@@ -1,62 +1,4 @@
 
-###
-
-
-<h2 align="left">About Me</h2>
-
-###
-
-<img align="left" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/827e40d2-dad2-414d-ba36-deb82b14b67e"  />
-
-###
-
-<h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech happening, I'll be there :)</h3>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koifissh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koifissh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="125" alt="languages graph"  />
-</div>
-
-###
-
-
-
-
-
 
 <img align="left" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/218755f0-f1c3-4101-a09b-c3b3fe4ce678"  />
 <!--
@@ -64,7 +6,7 @@
 ![output-onlinegiftools (1)](https://github.com/koifissh/koifissh/assets/112574689/218755f0-f1c3-4101-a09b-c3b3fe4ce678)
 ![lofi1 (1)](https://github.com/koifissh/koifissh/assets/112574689/827e40d2-dad2-414d-ba36-deb82b14b67e)
 -->
-###
+
 
 <h1 align="left">Daniel Huynh</h1>
 
