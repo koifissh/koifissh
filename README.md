@@ -64,7 +64,8 @@
 ###
 
 <h2 align="center">Projects</h2>
- [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal&align=center)](https://github.com/koifissh/CS303Assignment2-koifissh)
+
+###  [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/koifissh/CS303Assignment2-koifissh&mode=dark&style=horizontal&align=center)](https://github.com/koifissh/CS303Assignment2-koifissh)
 
 
 
