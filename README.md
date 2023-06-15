@@ -6,11 +6,11 @@
 ![lofi1 (1)](https://github.com/koifissh/koifissh/assets/112574689/827e40d2-dad2-414d-ba36-deb82b14b67e)
 -->
 
-<br align="left">Daniel Huynh</h1>
+<h1 align="left">Daniel Huynh</h1>
 
 ###
 
-<h1 align="left">C++ Dev</h1>
+<br align="left">C++ Dev</h1>
 
 ###
 <h2 align="center">About Me</h2>
