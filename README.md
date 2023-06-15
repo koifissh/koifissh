@@ -1,5 +1,9 @@
-<img align="left" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/367dd36c-ae1d-4b79-b970-edcb1d401b81"  />
-
+<img align="left" height="150" src="https://github.com/koifissh/koifissh/assets/112574689/218755f0-f1c3-4101-a09b-c3b3fe4ce678"  />
+<!--
+![output-onlinegiftools](https://github.com/koifissh/koifissh/assets/112574689/367dd36c-ae1d-4b79-b970-edcb1d401b81)
+![output-onlinegiftools (1)](https://github.com/koifissh/koifissh/assets/112574689/218755f0-f1c3-4101-a09b-c3b3fe4ce678)
+![lofi1 (1)](https://github.com/koifissh/koifissh/assets/112574689/827e40d2-dad2-414d-ba36-deb82b14b67e)
+-->
 ###
 
 <h1 align="left">Daniel Huynh</h1>
@@ -17,7 +21,6 @@
 ###
 
 <h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech happening, I'll be there :)</h3>
-![output-onlinegiftools](https://github.com/koifissh/koifissh/assets/112574689/367dd36c-ae1d-4b79-b970-edcb1d401b81)
 
 ###
 
