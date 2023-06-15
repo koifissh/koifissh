@@ -10,6 +10,7 @@
 
 ![ crop](https://github.com/koifissh/koifissh/assets/112574689/1cb435ff-153f-41bf-b2ae-78ab42cc3eca)
 
+![lofi1](https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4)
 
 
 
