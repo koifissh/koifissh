@@ -2,17 +2,17 @@
 
 ###
 
-<h1 align="left">Daniel Huynh</h1>
+<h2 align="left">Daniel Huynh</h2>
 
 ###
 
-<h1 align="left">KoiFissh</h1>
+<h2 align="left">KoiFissh</h2>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">About Me</h2>
+<h1 align="left">About Me</h1>
 
 ###
 
