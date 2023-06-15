@@ -1,3 +1,34 @@
+<img align="left" height="200" src="https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4"  />
+
+###
+
+<h1 align="left">Daniel Huynh</h1>
+
+###
+
+<p align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech, I'll be there :)</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=koifissh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koifissh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
+
+![lofi1](https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4)
+
+
+
+<!--
 
 <h1 align="left">Daniel Huynh -@koifissh</h1> 
 <div style="display: flex; align-items: center;">
@@ -10,11 +41,18 @@
 
 ![ crop](https://github.com/koifissh/koifissh/assets/112574689/1cb435ff-153f-41bf-b2ae-78ab42cc3eca)
 
-![lofi1](https://github.com/koifissh/koifissh/assets/112574689/a920fef3-5c22-4408-b768-498b1379edd4)
 
 
 
-<!--
+
+
+
+
+
+
+
+
+
 
 <img src="https://github.com/koifissh/koifissh/assets/112574689/001686b0-a9b3-461e-b433-c747538414da"/>
 <img src=!"https://github.com/koifissh/koifissh/assets/112574689/2450cc74-a859-4881-8526-17d6d8437efc"/>
