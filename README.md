@@ -21,6 +21,8 @@
 <h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech happening, I'll be there :)</h3>
 
 -->
+<img width="656" alt="Screen_Shot_2023-11-09_at_12 44 41_AM-removebg-preview" src="https://github.com/koifissh/koifissh/assets/112574689/31c093f5-3b1f-4a34-923d-f1ba78428ec6">
+
 
 ```
 - 👋 Hi, I’m Daniel Huynh
