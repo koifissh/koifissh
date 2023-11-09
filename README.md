@@ -51,7 +51,7 @@
 <h2 align="center">Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/koifissh/Data-Project-HackARoo23">
+  <a href="23">
     <img src="https://svg.bookmark.style/api?url=https://github.com/koifissh/Data-Project-HackARoo23&mode=dark&style=horizontal&align=center" alt="vue-command-palette">
   </a>
 </div>
