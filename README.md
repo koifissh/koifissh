@@ -5,7 +5,7 @@
 ![output-onlinegiftools](https://github.com/koifissh/koifissh/assets/112574689/367dd36c-ae1d-4b79-b970-edcb1d401b81)
 ![output-onlinegiftools (1)](https://github.com/koifissh/koifissh/assets/112574689/218755f0-f1c3-4101-a09b-c3b3fe4ce678)
 ![lofi1 (1)](https://github.com/koifissh/koifissh/assets/112574689/827e40d2-dad2-414d-ba36-deb82b14b67e)
--->
+
 
 <h1 align="center">Daniel Huynh</h1>
 
@@ -19,6 +19,18 @@
 ###
 
 <h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech happening, I'll be there :)</h3>
+
+-->
+
+```
+- 👋 Hi, I’m Daniel Huynh
+- 👀 I’m interested in Computers and Sciences.
+- 🌱 I’m currently learning everything that comes in my way.
+- 🏫 I'm currently studying Data Structures and Algorithms
+- 💞️ I’m looking to get involved in the world of Data Science, AI, and Internet of Things
+- 📫 You can reach me from dphpdx@umsystem.edu
+```
+
 
 ###
 
