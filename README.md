@@ -35,7 +35,7 @@
 - 👀 I’m interested in Computers and Sciences.
 - 🌱 I’m currently learning everything that comes in my way.
 - 🏫 I'm currently studying Data Structures and Algorithms
-- 💞️ I’m looking to get involved in the world of Data Science, AI, and Internet of Things
+- 💞️ I’m looking to get involved in the world of Data Science, AI, and Cloud Computing
 - 📫 You can reach me from dphpdx@umsystem.edu
 ```
 
