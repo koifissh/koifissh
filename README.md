@@ -30,7 +30,6 @@
   <img width="666" alt="Search1" src="https://github.com/koifissh/koifissh/assets/112574689/ee241c4c-f75c-4e32-b0c4-e0547cee5d9e">
 </div>
 
-###
 ```
 - 👋 Hi, I’m Daniel Huynh
 - 👀 I’m interested in Computers and Sciences.
@@ -39,36 +38,7 @@
 - 💞️ I’m looking to get involved in the world of Data Science, AI, and Cloud Computing
 - 📫 You can reach me from dphpdx@umsystem.edu
 ```
-###
 
-
-###
-
-<h2 align="center">Skills</h2>
-
-###
-
-<div align="center">
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <!--<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" /> -->
-  <!-- <img src="https://cdn.simpleicons.org/unity/C0C0C0" height="40" alt="unity logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
-</div> -->
-
-###
 
 <h2 align="center">Projects</h2>
 
