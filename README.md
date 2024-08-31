@@ -31,12 +31,9 @@
 </div>
 
 ```
-- 👋 Hi, I’m Daniel Huynh
-- 👀 I’m interested in Computers and Sciences.
-- 🌱 I’m currently learning everything that comes in my way.
-- 🏫 I'm currently studying Data Structures and Algorithms
-- 💞️ I’m looking to get involved in the world of Data Science, AI, and Cloud Computing
-- 📫 You can reach me from dphpdx@umsystem.edu
+- 👋 Hi, I’m Daniel Huynh, a computer science major interested in full stack engineering.
+- 🌱 I’m currently learning everything that comes my way
+- 📫 You can contact me through my Linkedin: www.linkedin.com/in/2danielhuynh/
 ```
 
 
