@@ -176,12 +176,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/koifissh"/>  
+    </div>
 
 
+<!--[![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)-->
 
-[![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
-
-![Visitor Count](https://profile-counter.glitch.me/{koifissh}/count.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/{koifissh}/count.svg)-->
 
 <img src="https://widgetbite.com/banner?title=KoiFissh&subtitle=&backgroundpalette=none&fontpalette=none&titletransform=none&subtitletransform=none" width=100% height=100%/>
 
