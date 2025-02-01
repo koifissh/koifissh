@@ -178,4 +178,6 @@ Here are some ideas to get you started:
 
 [![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
 
+![Visitor Count](https://profile-counter.glitch.me/{koifissh}/count.svg)
+
 
