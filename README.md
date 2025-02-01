@@ -25,7 +25,7 @@
 <h3 align="left">Hi, I'm Daniel-a college student working on becoming a fullstack app developer. Wherever there is cool tech happening, I'll be there :)</h3>
 
 
--->
+
 <div align="center">
   <img width="666" alt="Search1" src="https://github.com/koifissh/koifissh/assets/112574689/ee241c4c-f75c-4e32-b0c4-e0547cee5d9e">
 </div>
@@ -175,3 +175,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
+
+
