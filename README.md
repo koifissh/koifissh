@@ -177,21 +177,53 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://komarev.com/ghpvc/?username=koifissh&color=brightgreen" alt="watching_count" />
 
-![github-header-image (1)](https://github.com/user-attachments/assets/64e1cb6d-ecbe-4f33-98b9-bbcc2cffa5da)
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
-  <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/koifissh"/>  
-    </div>
+  <img src="https://komarev.com/ghpvc/?username=koifissh&color=brightgreen" alt="watching_count" />
+  <div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>
 -->
-    
+
 
 <!--[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)-->
 
+
+
+
+
+
+
+
+
+# Hello, World!
+
+```java
+class SoftwareDeveloper {
+    String name = "Daniel H";
+    String[] languages = {"C/C++", "Java", "Python", "Javascript", "HTML/CSS", "PostgreSQL"};
+    String[] interests = {"Product Design/Engineering", "Automation", "Mobile Development", "FinTech", "Web3"};
+    
+    void build() {
+        System.out.println("Thanks for dropping by, I hope you find my work interesting");
+    }
+}
+```
+
+
+
 [![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
+<div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{koifissh}/count.svg)-->
 
