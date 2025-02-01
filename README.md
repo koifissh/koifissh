@@ -19,15 +19,6 @@ class SoftwareDeveloper {
 ```
 <!--<div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>-->
 
----
-
-[![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=koifissh&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/koifissh/koifissh?color=black&logo=github" />
-</p>
-
 <details>
   <summary><b> </summary>
   <br/>
@@ -41,6 +32,15 @@ class SoftwareDeveloper {
  <div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>
   
 </details>
+
+<!--- --- --->
+
+[![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=koifissh&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/koifissh/koifissh?color=black&logo=github" />
+</p>
 
 <!--<details>
   <summary><b>Projects </summary>
