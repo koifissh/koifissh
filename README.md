@@ -78,7 +78,7 @@ class SoftwareDeveloper {
 [![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=koifissh&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=koifissh1&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/koifissh/koifissh?color=black&logo=github" />
 </p>
 
