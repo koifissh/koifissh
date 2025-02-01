@@ -176,10 +176,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://komarev.com/ghpvc/?username=koifissh&color=brightgreen" alt="watching_count" />
+
   <div align="center">
         <img alt="Visitor Stats" 
             src="https://widgetbite.com/stats/koifissh"/>  
     </div>
+
+    
 
 <!--[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)-->
 
