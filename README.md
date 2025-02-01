@@ -176,7 +176,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+###
 <img src="https://komarev.com/ghpvc/?username=koifissh&color=brightgreen" alt="watching_count" />
+###
 
   <div align="center">
         <img alt="Visitor Stats" 
