@@ -42,23 +42,8 @@ class SoftwareDeveloper {
   
 </details>
 
-
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=koifissh&repo=github-readme-stats)](https://gist.github.com/koifissh/Route-Search-Visualizer)-->
-<!--[![DH GitHub | Dependencies](https://stats.quine.sh/koifissh/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=koifissh)
-[![DH GitHub | Stats](https://stats.quine.sh/koifissh/github?theme=light)](https://quine.sh)-->
-
-<!--![Visitor Count](https://profile-counter.glitch.me/{koifissh}/count.svg)-->
-
-<!--<img src="https://widgetbite.com/banner?title=KoiFissh&subtitle=&backgroundpalette=none&fontpalette=none&titletransform=none&subtitletransform=none" width=100% height=100%/>-->
-
-
-
-
-<!--
-<div align="center">
-  <img width="666" alt="Search1" src="https://github.com/koifissh/koifissh/assets/112574689/ee241c4c-f75c-4e32-b0c4-e0547cee5d9e">
-</div>
+<!--<details>
+  <summary><b>Projects </summary>
 
 <div align="center">
   <a href="https://github.com/koifissh/Route-Search-Visualizer">
@@ -78,5 +63,22 @@ class SoftwareDeveloper {
     <img src="https://svg.bookmark.style/api?url=https://github.com/koifissh/GeneticAlgoSim&mode=dark&style=horizontal&align=center" alt="vue-command-palette">
   </a>
 </div>
+  
+</details>-->
+
+
+<!--<div align="center"><img width="666" alt="Search1" src="https://github.com/koifissh/koifissh/assets/112574689/ee241c4c-f75c-4e32-b0c4-e0547cee5d9e"></div>-->
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=koifissh&repo=github-readme-stats)](https://gist.github.com/koifissh/Route-Search-Visualizer)-->
+<!--[![DH GitHub | Dependencies](https://stats.quine.sh/koifissh/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=koifissh)
+[![DH GitHub | Stats](https://stats.quine.sh/koifissh/github?theme=light)](https://quine.sh)-->
+
+<!--![Visitor Count](https://profile-counter.glitch.me/{koifissh}/count.svg)-->
+
+<!--<img src="https://widgetbite.com/banner?title=KoiFissh&subtitle=&backgroundpalette=none&fontpalette=none&titletransform=none&subtitletransform=none" width=100% height=100%/>-->
+
+
+
+
+<!--
 
 
