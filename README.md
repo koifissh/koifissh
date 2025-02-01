@@ -19,7 +19,7 @@
 <!--<img src="https://github.com/user-attachments/assets/8ca3136f-944f-4f78-99f0-8ee203655ef0" width=17% align="left" />-->
 <!--<img src="https://github.com/user-attachments/assets/40f3cf0f-8702-448a-bfdf-dea4a19f902f" width=22% align="left" />-->
 <!-- <img src="https://github.com/user-attachments/assets/9f7a053f-d9c0-4fec-afb6-5298fa3c2110" width=22% align="left" />-->
-<img src="https://github.com/user-attachments/assets/9dfd32ee-ce2a-4390-b48a-d9b6dfda8ec7" width=16.5% align="left" />
+<img src="https://github.com/user-attachments/assets/9dfd32ee-ce2a-4390-b48a-d9b6dfda8ec7" width=16.5% align="right" />
 
   
 ```java
