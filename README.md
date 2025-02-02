@@ -86,17 +86,17 @@ class SoftwareDeveloper {
       <!-- Thumbnails Row -->
       <td align="center">
         <a href="https://github.com/koifissh/hackathon2024b">
-          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/hackathon2024b&mode=transparent&v=2" alt="Hackathon2024b Thumbnail">
+          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/hackathon2024b&mode=dark&v=2" alt="Hackathon2024b Thumbnail">
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/koifissh/math-alt-accessibility">
-          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/math-alt-accessibility&mode=light&v=2" alt="Math Alt Accessibility Thumbnail">
+          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/math-alt-accessibility&mode=dark&v=2" alt="Math Alt Accessibility Thumbnail">
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/koifissh/Route-Search-Visualizer">
-          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/Route-Search-Visualizer&mode=light&v=2" alt="Route Search Visualizer Thumbnail">
+          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/Route-Search-Visualizer&mode=dark&v=2" alt="Route Search Visualizer Thumbnail">
         </a>
       </td>
     </tr>
@@ -161,8 +161,8 @@ class SoftwareDeveloper {
 
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=koifissh8&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/koifissh/koifissh?color=black&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=koifissh9&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/koifissh?color=black&logo=github" />
 </p>
 
 
@@ -178,7 +178,7 @@ class SoftwareDeveloper {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koifissh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koifissh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="125" alt="languages graph"  />
-  <img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh8" height="110"/>
+  <img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh9" height="110"/>
 </div>
  
 </details>
