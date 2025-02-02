@@ -68,7 +68,7 @@ class SoftwareDeveloper {
 
 <div align="center">
   <a href="https://github.com/koifissh/Route-Search-Visualizer">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/koifissh/Route-Search-Visualizer&mode=dark&style=horizontal&align=center" height="100" alt="vue-command-palette">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/koifissh/Route-Search-Visualizer&mode=dark&style=horizontal&align=center" height="120" alt="vue-command-palette">
   </a>
 </div>
 
