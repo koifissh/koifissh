@@ -4,15 +4,7 @@
   <div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>
 -->
 
-
-
-
-<div align="left">
-  <img src="https://holopin.me/koifissh" width="1000" height="300" />
-</div>
-
 # Hello, World!
-
 
 
 <div align="left">
@@ -29,6 +21,7 @@
 <!-- <img src="https://github.com/user-attachments/assets/9f7a053f-d9c0-4fec-afb6-5298fa3c2110" width=22% align="left" />-->
 <img src="https://github.com/user-attachments/assets/9dfd32ee-ce2a-4390-b48a-d9b6dfda8ec7" width=17.5% align="right" />
 <!--<img src="https://github.com/user-attachments/assets/f06d4c0f-8518-4529-8d32-f279e73d900b" width=17.5% align="right" />-->
+
   
 ```java
 class SoftwareDeveloper {
@@ -65,6 +58,19 @@ class SoftwareDeveloper {
 ```-->
 
 <!--<div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>-->
+[]()
+---
+
+<!--- --- --->
+
+[![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
+---
+
+<div align="center">
+  <a href="https://github.com/koifissh/Route-Search-Visualizer">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/koifissh/Route-Search-Visualizer&mode=dark&style=horizontal&align=center" height="180" alt="vue-command-palette">
+  </a>
+</div>
 
 <!--
 <p align="center">
@@ -81,6 +87,7 @@ class SoftwareDeveloper {
    </a>
 
 </p>
+
 -->
 
 []()
@@ -100,6 +107,7 @@ class SoftwareDeveloper {
 <details>
   <summary><b> </summary>
   <br/>
+    
    <div align="center">
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=koifissh&theme=github-compact&hide_border=true)](https://github.com/koifissh/github-readme-activity-graph)" height="230" />
 </div>
