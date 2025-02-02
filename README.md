@@ -161,7 +161,7 @@ class SoftwareDeveloper {
 
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=koifissh6&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=koifissh7&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/koifissh/koifissh?color=black&logo=github" />
 </p>
 
@@ -178,7 +178,7 @@ class SoftwareDeveloper {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koifissh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koifissh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="125" alt="languages graph"  />
-  <img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh6" height="110"/>
+  <img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh7" height="110"/>
 </div>
  
 </details>
