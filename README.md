@@ -86,7 +86,7 @@ class SoftwareDeveloper {
 
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=koifissh1&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=koifissh2&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/koifissh/koifissh?color=black&logo=github" />
 </p>
 
