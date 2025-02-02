@@ -68,15 +68,15 @@ class SoftwareDeveloper {
 
 <p align="center">
   <a href="https://github.com/koifissh/Route-Search-Visualizer">
-   <img width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=Route-Search-Visualizer&theme=tokyonight&hide_border=true" alt="https://github.com/koifissh/Route-Search-Visualizer">
+   <img width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=Route-Search-Visualizer&theme=tokyonight" alt="https://github.com/koifissh/Route-Search-Visualizer">
   </a>
 
    <a href="https://github.com/koifissh/math-alt-accessibility">
-   <img width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=math-alt-accessibility&theme=tokyonight&hide_border=true" alt="https://github.com/koifissh/math-alt-accessibility">
+   <img width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=math-alt-accessibility&theme=tokyonight" alt="https://github.com/koifissh/math-alt-accessibility">
    </a>
 
    <a href="https://github.com/koifissh/hackathon2024b">
-   <img width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=hackathon2024b&theme=tokyonight&hide_border=true" alt="https://github.com/koifissh/hackathon2024b">
+   <img width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=hackathon2024b&theme=tokyonight" alt="https://github.com/koifissh/hackathon2024b">
    </a>
 
 </p>
