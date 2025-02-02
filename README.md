@@ -99,13 +99,15 @@ class SoftwareDeveloper {
   <summary><b> </summary>
   <br/>
    <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=koifissh&theme=github-compact&hide_border=true)](https://github.com/koifissh/github-readme-activity-graph)" height="225" />
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=koifissh&theme=github-compact&hide_border=true)](https://github.com/koifissh/github-readme-activity-graph)" height="230" />
 </div>
+    
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koifissh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koifissh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="125" alt="languages graph"  />
+  <img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh2" height="110"/>
 </div>
- <div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh1"/>  </div>
+ 
   
 </details>
 
