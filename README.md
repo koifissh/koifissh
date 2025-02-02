@@ -162,7 +162,7 @@ class SoftwareDeveloper {
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=koifissh9&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/koifissh?color=black&logo=github" />
+<img src="https://badges.pufler.dev/visits/koifissh/readme.md?color=black&logo=github" />
 </p>
 
 
