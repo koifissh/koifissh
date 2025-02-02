@@ -6,7 +6,7 @@
 
 <!--<h1 align="left"> Hello, World!<h1>-->
 
-# Hello, World! <img height="32" width="32" src="https://github.com/user-attachments/assets/a8b3acef-ab8f-46fb-aa5c-695a0f367a7b" align="right"/>
+# Hello, World! <img  width=4.5% src="https://github.com/user-attachments/assets/a8b3acef-ab8f-46fb-aa5c-695a0f367a7b" align="right"/>
 
 
 
