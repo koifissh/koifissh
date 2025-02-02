@@ -58,7 +58,42 @@ class SoftwareDeveloper {
 ```-->
 
 <!--<div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>-->
-  
+[]()
+---
+
+<!--- --- --->
+
+[![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
+---
+
+<p align="center">
+  <a href="https://github.com/koifissh/Route-Search-Visualizer">
+   <img width="325" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=Route-Search-Visualizer&theme=tokyonight" alt="https://github.com/koifissh/Route-Search-Visualizer">
+  </a>
+
+   <a href="https://github.com/koifissh/math-alt-accessibility">
+   <img width="325" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=math-alt-accessibility&theme=tokyonight" alt="https://github.com/koifissh/math-alt-accessibility">
+   </a>
+
+   <a href="https://github.com/koifissh/hackathon2024b">
+   <img width="325" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=hackathon2024b&theme=tokyonight" alt="https://github.com/koifissh/hackathon2024b">
+   </a>
+
+</p>
+
+[]()
+---
+
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=koifissh1&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/koifissh/koifissh?color=black&logo=github" />
+</p>
+
+
+
+
+
 </div>
 <details>
   <summary><b> </summary>
@@ -74,14 +109,19 @@ class SoftwareDeveloper {
   
 </details>
 
-<!--- --- --->
 
-[![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=koifissh1&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/koifissh/koifissh?color=black&logo=github" />
-</p>
+
+<!--<summary><h2>📘 My Top Projects</h2></summary>
+
+
+<p align="left">
+    <a href="https://github.com/koifissh/github-readme-activity-graph">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=Route-Search-Visualizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-activity-graph">
+    </a>
+</p> -->
+
+
 
 <!--<details>
   <summary><b>Projects </summary>
