@@ -13,7 +13,7 @@
 <div align="left">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koifissh&layout=donut-vertical&theme=transparent&hide_border=true)](https://github.com/koifissh/github-readme-stats)" width=22% align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koifissh&layout=donut-vertical&theme=transparent&hide_border=true)](https://github.com/koifissh/github-readme-stats)" width=22% align="left" />
 
   
 <!--<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="20%" align="left" /> -->
