@@ -73,7 +73,8 @@ class SoftwareDeveloper {
 
 <!--<div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>-->
 []()
- 
+---
+
 <!--- --- --->
 
 [![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
