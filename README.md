@@ -39,12 +39,12 @@
 ```java
 class SoftwareDeveloper {
     String name = "Daniel H";
-
     String[] languages =
     {"C/C++", "Java", "Python", "Javascript", "HTML/CSS", "PostgreSQL"};
 
     String[] interests =
-    {"Product Design/Engineering", "Automation", "Mobile Development", "FinTech", "Web3"};
+    {"Product Design/Engineering", "Automation", 
+    "Mobile Development", "FinTech", "Web3"};
 
     void build() {
         System.out.println("Thanks for dropping by.");
