@@ -11,7 +11,9 @@
 
 
 <div align="left">
-  
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koifissh&layout=donut-vertical&theme=transparent&hide_border=true)](https://github.com/koifissh/github-readme-stats)" width="225" height=25% align="right" />
 
   
 <!--<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="20%" align="left" /> -->
@@ -26,7 +28,7 @@
 <!--<img src="https://github.com/user-attachments/assets/40f3cf0f-8702-448a-bfdf-dea4a19f902f" width=22% align="left" />-->
 <!-- <img src="https://github.com/user-attachments/assets/9f7a053f-d9c0-4fec-afb6-5298fa3c2110" width=22% align="left" />-->
 
-<img src="https://github.com/user-attachments/assets/9dfd32ee-ce2a-4390-b48a-d9b6dfda8ec7" width=17.5% align="right" />
+<!--<img src="https://github.com/user-attachments/assets/9dfd32ee-ce2a-4390-b48a-d9b6dfda8ec7" width=17.5% align="right" />-->
 <!--img src="https://github.com/user-attachments/assets/7d97245d-80c1-4735-9048-8c67720aa6c8" width=17.5% align="right" />-->
 
 <!--<img src="https://github.com/user-attachments/assets/01420a0d-d2d2-44b2-b6eb-daeab5d3e360" width=20% align="right" />-->
