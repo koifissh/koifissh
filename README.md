@@ -9,8 +9,9 @@
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/9dfd32ee-ce2a-4390-b48a-d9b6dfda8ec7" width=15.5%/>
-  <img src="https://holopin.me/koifissh" width="850" height="225" />
+  <img src="https://holopin.me/koifissh" width="550" height="225" />
 </div>
+
 # Hello, World!
 
 
