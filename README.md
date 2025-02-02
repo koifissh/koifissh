@@ -4,7 +4,7 @@
   <div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>
 -->
 
-<!--<h1 align="left"> Hello, World!<h1>-->
+<!--<h1 align="left"> Hello, World!<h1> <h1 align="right">Software Dev<h1>-->
 
 # Hello, World! <img  width=4.5% src="https://github.com/user-attachments/assets/a8b3acef-ab8f-46fb-aa5c-695a0f367a7b" align="right"/>
 
@@ -86,17 +86,17 @@ class SoftwareDeveloper {
       <!-- Thumbnails Row -->
       <td align="center">
         <a href="https://github.com/koifissh/hackathon2024b">
-          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/hackathon2024b&mode=dark&v=2" alt="Hackathon2024b Thumbnail">
+          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/hackathon2024b&mode=transparent&v=2" alt="Hackathon2024b Thumbnail">
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/koifissh/math-alt-accessibility">
-          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/math-alt-accessibility&mode=dark&v=2" alt="Math Alt Accessibility Thumbnail">
+          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/math-alt-accessibility&mode=light&v=2" alt="Math Alt Accessibility Thumbnail">
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/koifissh/Route-Search-Visualizer">
-          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/Route-Search-Visualizer&mode=dark&v=2" alt="Route Search Visualizer Thumbnail">
+          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/Route-Search-Visualizer&mode=light&v=2" alt="Route Search Visualizer Thumbnail">
         </a>
       </td>
     </tr>
