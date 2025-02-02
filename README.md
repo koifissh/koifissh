@@ -5,12 +5,10 @@
 -->
 
 
-
-# Hello, World!
-
-
+# Hello, World! 
 
 <div align="left">
+  
 
   
 <!--<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="20%" align="left" /> -->
@@ -25,7 +23,9 @@
 <!--<img src="https://github.com/user-attachments/assets/40f3cf0f-8702-448a-bfdf-dea4a19f902f" width=22% align="left" />-->
 <!-- <img src="https://github.com/user-attachments/assets/9f7a053f-d9c0-4fec-afb6-5298fa3c2110" width=22% align="left" />-->
 
-<img src="https://github.com/user-attachments/assets/9dfd32ee-ce2a-4390-b48a-d9b6dfda8ec7" width=17.5% align="right" />
+<!--<img src="https://github.com/user-attachments/assets/9dfd32ee-ce2a-4390-b48a-d9b6dfda8ec7" width=17.5% align="right" />-->
+<img src="https://github.com/user-attachments/assets/7d97245d-80c1-4735-9048-8c67720aa6c8" width=17.5% align="right" />
+
 <!--<img src="https://github.com/user-attachments/assets/01420a0d-d2d2-44b2-b6eb-daeab5d3e360" width=20% align="right" />-->
 
 <!--<img src="https://github.com/user-attachments/assets/f06d4c0f-8518-4529-8d32-f279e73d900b" width=17.5% align="right" />-->
@@ -68,12 +68,63 @@ class SoftwareDeveloper {
 <!--<div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>-->
 []()
 ---
-
+ 
 <!--- --- --->
 
 [![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
 ---
+<!--https://opengraph.githubassets.com/1/koifissh/math-alt-accessibility-->
 
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <!-- Thumbnails Row -->
+      <td align="center">
+        <a href="https://github.com/koifissh/hackathon2024b">
+          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/hackathon2024b&mode=dark&v=2" alt="Hackathon2024b Thumbnail">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/koifissh/math-alt-accessibility">
+          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/math-alt-accessibility&mode=dark&v=2" alt="Math Alt Accessibility Thumbnail">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/koifissh/Route-Search-Visualizer">
+          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/Route-Search-Visualizer&mode=dark&v=2" alt="Route Search Visualizer Thumbnail">
+        </a>
+      </td>
+    </tr>
+    <tr>
+
+  </table>
+</div>
+
+<!--
+
+       Repo Cards Row
+      <td align="center">
+        <a href="https://github.com/koifissh/hackathon2024b">
+          <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=hackathon2024b&theme=tokyonight&hide_border=true&border_radius=15">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/koifissh/math-alt-accessibility">
+          <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=Data-Project-HackARoo23&theme=tokyonight&hide_border=true&border_radius=15">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/koifissh/Route-Search-Visualizer">
+          <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=Route-Search-Visualizer&theme=tokyonight&hide_border=true&border_radius=15">
+        </a>
+      </td>
+    </tr>
+  
+-->
+
+
+
+<!--
 <p align="center">
   <a href="https://github.com/koifissh/Route-Search-Visualizer">
    <img width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=Route-Search-Visualizer&theme=tokyonight" alt="https://github.com/koifissh/Route-Search-Visualizer">
@@ -87,18 +138,28 @@ class SoftwareDeveloper {
    <img width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=hackathon2024b&theme=tokyonight" alt="https://github.com/koifissh/hackathon2024b">
    </a>
 
-</p>
+</p>-->
+
+
+
+
+
+
+
+
+
+
+
+
 
 []()
----
+
 
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=koifissh4&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=koifissh5&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/koifissh/koifissh?color=black&logo=github" />
 </p>
-
-
 
 
 
@@ -113,11 +174,22 @@ class SoftwareDeveloper {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koifissh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koifissh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="125" alt="languages graph"  />
-  <img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh4" height="110"/>
+  <img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh5" height="110"/>
 </div>
  
-  
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
