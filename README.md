@@ -66,13 +66,6 @@ class SoftwareDeveloper {
 [![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
 ---
 
-<div align="center">
-  <a href="https://github.com/koifissh/Route-Search-Visualizer">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/koifissh/Route-Search-Visualizer&mode=dark&style=horizontal&align=center" height="120" alt="vue-command-palette">
-  </a>
-</div>
-
-<!--
 <p align="center">
   <a href="https://github.com/koifissh/Route-Search-Visualizer">
    <img width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=Route-Search-Visualizer&theme=tokyonight" alt="https://github.com/koifissh/Route-Search-Visualizer">
@@ -88,14 +81,12 @@ class SoftwareDeveloper {
 
 </p>
 
--->
-
 []()
 ---
 
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=koifissh3&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=koifissh4&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/koifissh/koifissh?color=black&logo=github" />
 </p>
 
@@ -107,7 +98,6 @@ class SoftwareDeveloper {
 <details>
   <summary><b> </summary>
   <br/>
-    
    <div align="center">
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=koifissh&theme=github-compact&hide_border=true)](https://github.com/koifissh/github-readme-activity-graph)" height="230" />
 </div>
@@ -115,7 +105,7 @@ class SoftwareDeveloper {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koifissh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koifissh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="125" alt="languages graph"  />
-  <img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh3" height="110"/>
+  <img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh4" height="110"/>
 </div>
  
   
