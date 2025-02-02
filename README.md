@@ -4,7 +4,7 @@
   <div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>
 -->
 
-<img src="https://github.com/user-attachments/assets/01420a0d-d2d2-44b2-b6eb-daeab5d3e360" width=30% align="right" />
+
 
 # Hello, World!
 
@@ -24,7 +24,10 @@
 <!--<img src="https://github.com/user-attachments/assets/8ca3136f-944f-4f78-99f0-8ee203655ef0" width=17% align="left" />-->
 <!--<img src="https://github.com/user-attachments/assets/40f3cf0f-8702-448a-bfdf-dea4a19f902f" width=22% align="left" />-->
 <!-- <img src="https://github.com/user-attachments/assets/9f7a053f-d9c0-4fec-afb6-5298fa3c2110" width=22% align="left" />-->
-<!--<img src="https://github.com/user-attachments/assets/9dfd32ee-ce2a-4390-b48a-d9b6dfda8ec7" width=17.5% align="right" />-->
+
+<img src="https://github.com/user-attachments/assets/9dfd32ee-ce2a-4390-b48a-d9b6dfda8ec7" width=17.5% align="right" />
+<!--<img src="https://github.com/user-attachments/assets/01420a0d-d2d2-44b2-b6eb-daeab5d3e360" width=20% align="right" />-->
+
 <!--<img src="https://github.com/user-attachments/assets/f06d4c0f-8518-4529-8d32-f279e73d900b" width=17.5% align="right" />-->
 
   
