@@ -72,13 +72,20 @@ class SoftwareDeveloper {
 ```-->
 
 <!--<div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>-->
+
+<div align="center">
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=koifissh&theme=github-compact&hide_border=true)](https://github.com/koifissh/github-readme-activity-graph)" height="400" />
+</div>
+
+
 []()
 
 <!--- --- --->
 
-[![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
-
 <!--https://opengraph.githubassets.com/1/koifissh/math-alt-accessibility-->
+
+<H2>Web3</H2>
+
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
@@ -104,6 +111,11 @@ class SoftwareDeveloper {
 
   </table>
 </div>
+
+
+
+
+[![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
 
 <!--
 
