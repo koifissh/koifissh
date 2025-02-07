@@ -93,17 +93,17 @@ class SoftwareDeveloper {
       <!-- Thumbnails Row -->
       <td align="center">
         <a href="https://github.com/koifissh/hackathon2024b">
-          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/hackathon2024b&mode=dark&v=2" alt="Hackathon2024b Thumbnail">
+          <img width=100% src="https://svg.bookmark.style/api?url=https://github.com/koifissh/hackathon2024b&mode=dark&v=2" alt="Hackathon2024b Thumbnail">
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/koifissh/math-alt-accessibility">
-          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/math-alt-accessibility&mode=dark&v=2" alt="Math Alt Accessibility Thumbnail">
+          <img width=100% src="https://svg.bookmark.style/api?url=https://github.com/koifissh/math-alt-accessibility&mode=dark&v=2" alt="Math Alt Accessibility Thumbnail">
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/koifissh/Route-Search-Visualizer">
-          <img width="400" src="https://svg.bookmark.style/api?url=https://github.com/koifissh/Route-Search-Visualizer&mode=dark&v=2" alt="Route Search Visualizer Thumbnail">
+          <img width=100% src="https://svg.bookmark.style/api?url=https://github.com/koifissh/Route-Search-Visualizer&mode=dark&v=2" alt="Route Search Visualizer Thumbnail">
         </a>
       </td>
     </tr>
