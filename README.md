@@ -84,7 +84,7 @@ class SoftwareDeveloper {
 
 <!--https://opengraph.githubassets.com/1/koifissh/math-alt-accessibility-->
 
-<H2>Web3</H2>
+<H2>Projects</H2>
 
 
 <div align="center">
