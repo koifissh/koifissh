@@ -1,7 +1,7 @@
 
 
 
-# Hello, World! 
+# Hello, World 
   
 ```java
 class SoftwareDeveloper {
