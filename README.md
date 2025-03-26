@@ -6,15 +6,17 @@
 
 <!--<h1 align="left"> Hello, World!<h1> <h1 align="right">Software Dev<h1>-->
 
-# Hello, World! <img  width=4.5% src="https://github.com/user-attachments/assets/a8b3acef-ab8f-46fb-aa5c-695a0f367a7b" align="right"/>
+# Hello, World! 
+
+<!--<img  width=4.5% src="https://github.com/user-attachments/assets/a8b3acef-ab8f-46fb-aa5c-695a0f367a7b" align="right"/>-->
 
 
-
+<!--
 <div align="left">
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koifissh&layout=donut-vertical&theme=transparent&hide_border=true)](https://github.com/koifissh/github-readme-stats)" width=24.25% align="right" />
-
+-->
   
 <!--<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="20%" align="left" /> -->
 <!--<img src="https://github.com/user-attachments/assets/d30ae045-acad-404d-be47-fb37eb602ef7" width="17%" align="left" /> -->
@@ -40,11 +42,10 @@
 class SoftwareDeveloper {
     String name = "Daniel H";
     String[] languages =
-    {"C/C++", "Java", "Python", "Javascript", "HTML/CSS", "PostgreSQL"};
+    {"C/C++", "C#", "Java", "Python", "Javascript", "HTML/CSS", "MySQL/PostgreSQL"};
 
     String[] interests =
-    {"Product Design/Engineering", "Automation", 
-    "Mobile Development", "FinTech", "Web3"};
+    {"App & Fullstack Development", "FinTech"};
 
     void build() {
         System.out.println("Thanks for dropping by.");
@@ -73,7 +74,7 @@ class SoftwareDeveloper {
 
 <!--<div align="center"><img alt="Visitor Stats"src="https://widgetbite.com/stats/koifissh"/>  </div>-->
 
-[![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)
+<!--[![An image of @koifissh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koifissh)](https://holopin.io/@koifissh)-->
 
 
 []()
@@ -105,14 +106,20 @@ class SoftwareDeveloper {
       </td>
     </tr>
     <tr>
+      
+       {"Projects I've Done"}
+
+<!--
 
   </table>
 </div>
 
 
+-->
 
 <!--
 
+<!--
        Repo Cards Row
       <td align="center">
         <a href="https://github.com/koifissh/hackathon2024b">
@@ -130,8 +137,8 @@ class SoftwareDeveloper {
         </a>
       </td>
     </tr>
-  
--->
+
+  -->
 
 
 
@@ -149,7 +156,8 @@ class SoftwareDeveloper {
    <img width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=koifissh&repo=hackathon2024b&theme=tokyonight" alt="https://github.com/koifissh/hackathon2024b">
    </a>
 
-</p>-->
+</p>
+-->
 
 
 
@@ -164,7 +172,7 @@ class SoftwareDeveloper {
 
 
 []()
-
+<!--
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=koifissh9&style=plastic&label=Views"><img>
@@ -190,7 +198,7 @@ class SoftwareDeveloper {
 </details>
 
 
-
+-->
 
 
 
